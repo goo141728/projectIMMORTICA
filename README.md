@@ -1,1 +1,2 @@
 # projectIMMORTICA
+This is the source code and the images for the website projectIMMORTICA, however, we will not be including the memes or the index, JUST THE SOURCE CODE, all of the resources are on the main server, and or on the host developers machine, SHE WILL NOT BE UPLOADING THE INDEX ON TO THE GITHUB SERVERS FOR THE SAKE OF GITHUB. However, if you want them, contact her via IRC and she will package it for YOU!

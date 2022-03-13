@@ -36,13 +36,32 @@
   color: black;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
    </style>
    <div class="topnav">
  <a href="#news">News</a>
  <a href="#contact">Contact</a>
  <a href="#about">About</a>
   </div>
+  <div class="row">
+    <div class="column">
       <input type="image" src="homebutton.webp" name="submit" width="400" height="58" alt="old browser bozo" onclick="location.href='index.html';"/>
+    </div>
+    <div class="column"
+      <img src="gentlemanirc.webp">
+    </div>
       <h3>Welcome to Project IMMORTICA, we specialise in memery, check out some of our pages!<h3>
         <h4><a href="nichijou/index.html">Nichijou</a>, Our newest Page!<h4>
         </head>
